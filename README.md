@@ -35,8 +35,8 @@ Here are the tools & technologies I use:
 
 ## 📂 Featured Projects
 - 🔗 [Project 1](https://github.com/stephbrillo8-prog/coding-journey/blob/main/Personalexpense.c) – Expense Tracker
-- 🔗 [Project 2](https://github.com/stephbrillo8-prog/project2) – Simple Pyramid of Stars
-- 🔗 [Project 3](https://github.com/stephbrillo8-prog/project3) – BMI Calculator
+- 🔗 [Project 2](https://github.com/stephbrillo8-prog/coding-journey/blob/main/PyramidofStars.c) – Simple Pyramid of Stars
+- 🔗 [Project 3](https://github.com/stephbrillo8-prog/coding-journey/blob/main/BMIproject.c) – BMI Calculator
 
 ---
 
